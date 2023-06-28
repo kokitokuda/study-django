@@ -1,0 +1,9 @@
+# これをやるとgitの影響下から外れる
+*.pyc
+*~
+/.vscode
+__pycache__
+venv
+db.sqlite3
+/static
+.DS_Store
